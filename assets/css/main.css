@@ -2385,7 +2385,7 @@ input, select, textarea {
 			}
 
 		table td {
-			padding: 0 0;
+			padding: 0 4px 0px 0;
 		}
 
 		table th {
